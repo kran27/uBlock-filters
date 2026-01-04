@@ -1,0 +1,70 @@
+! https://www.youtube.com - Hide Shorts Carousel and AI Summary
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
+www.youtube.com##.ytd-structured-description-content-renderer.style-scope > .ytd-expandable-metadata-renderer.style-scope
+
+! https://www.google.com - Hide AI Mode and AI Response 
+www.google.com##div.EjQTId.YNk70c:nth-of-type(1)
+www.google.com##.C6AK7c.XVMlrc > .mXwfNd > .mVH5Fc > .R1QWuf
+
+! https://x.com - Hide Premium Ads and Grok shit
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(9)
+x.com##a.r-1loqt21.r-1ny4l3l.r-13qz1uu.r-cnw61z.r-1habvwh.r-16y2uox.r-eqz5dr.r-6koalj.css-175oi2r:nth-of-type(5)
+x.com##.r-bnwqim.r-xoduu5.css-175oi2r > .r-m6rgpd.r-lrvibr.r-bnwqim.r-dnmrzs.r-1xvli5t.r-yyyyoo.r-4qtqp9
+x.com##.r-bnwqim.r-u9wvl5.r-w7s2jr.r-uaa2di.r-eqz5dr.r-1habvwh.css-175oi2r
+x.com##.r-ttdzmv.r-vacyoi.css-175oi2r > div.css-175oi2r > .r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
+x.com##.r-c97pre
+x.com##div.r-cpa5s6.r-14tvyh0.css-175oi2r:nth-of-type(3)
+
+! https://github.com - Hide Copilot Repo Initialization
+github.com##div.prc-Timeline-TimelineItem-QwDVH.Timeline-Item.ModernCreateForm-module__timelineItem--vkK1n:nth-of-type(3)
+github.com##.CopilotChatInputPartial-module__inputContainer--EE6LJ
+github.com##li.prc-ActionList-ActionListItem-So4vC:nth-of-type(16)
+
+! Jan 4, 2026 https://github.com
+github.com##li.prc-ActionList-ActionListItem-So4vC:nth-of-type(8)
+github.com##.OverviewContent-module__Box_6--tJpBe > .prc-Button-IconButton-fyge7.prc-Button-ButtonBase-9n-Xk
+
+! https://r6.tracker.network - Hide Premium Promotions
+r6.tracker.network##.max-ml\:p-0.m-0.z-1.bordered-davert
+r6.tracker.network##li.item--item.flex.item:nth-of-type(6)
+r6.tracker.network##.text-gold.trn-game-bar-premium
+r6.tracker.network##.trn-game-bar-special
+r6.tracker.network##.pb-6.v3-grid.v3-site-container > .bordered-davert
+r6.tracker.network##.ad-container.size-inline-rectangle
+
+! https://www.nexusmods.com - Hide Premium Promotions, Media, Collection, Vortex Pushes.
+www.nexusmods.com##section:nth-of-type(3)
+www.nexusmods.com##.sm\:bg-surface-translucent-mid.p-4.rounded
+www.nexusmods.com###headlessui-popover-button-_R_rdmkmiunjb_
+www.nexusmods.com###headlessui-popover-button-_R_rhmkmiunjb_
+www.nexusmods.com##.md\:px-8.py-4.px-6.bg-center.bg-size-\[367px_211px\].bg-creator-900.border-creator-moderate.border.rounded-lg.block.hover-overlay
+www.nexusmods.com##section:nth-of-type(5)
+www.nexusmods.com##section:nth-of-type(6)
+www.nexusmods.com###rj-vortex > .rj-grid-12.content
+www.nexusmods.com##.rj-supporter-wrapper
+www.nexusmods.com##button.nav-tab-button:nth-of-type(3)
+www.nexusmods.com##button.nav-tab-button:nth-of-type(4)
+www.nexusmods.com##.sm\:p-8.p-6.border-stroke-subdued.border.rounded-lg.overflow-hidden.my-8.relative
+www.nexusmods.com##.sm\:p-8.p-6.bg-center.bg-size-\[424px_244px\].border-premium-moderate.border.rounded-lg.space-y-8.w-full
+www.nexusmods.com###headlessui-radio-_r_128_
+www.nexusmods.com###headlessui-radio-_r_129_
+users.nexusmods.com##.align-self-center.ml-auto.m-btn-primary.m-btn.your-plan__cta-button
+
+! https://mail.google.com - Hide Prompt to Upgrade Storage
+mail.google.com##.hMCF6c.MNFoWc.wX4xVc-JX-I
+mail.google.com##.I6agWe
+
+! https://www.reddit.com - Hide "Games on Reddit", Advertise on Reddit, Premium, NFT, Ask Reddit, etc.
+www.reddit.com##.nd\:visible > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0
+www.reddit.com##hr.border-neutral-border-weak.my-sm.w-100:nth-of-type(2)
+www.reddit.com##advertise-button > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+www.reddit.com##ul.my-xs.list-none.m-0.p-0.w-100:nth-of-type(2)
+www.reddit.com##faceplate-tracker[noun="entrypoint"]
+www.reddit.com##faceplate-tracker[noun="premium_menu"]
+www.reddit.com##faceplate-tracker[noun="vault"]
+www.reddit.com##faceplate-search-input > div[slot="trailingContent"]
+
+! https://modrinth.com - Hide Hosting Ad
+modrinth.com##.rounded-2xl.justify-center.w-full.flex.mb-3.relative.wrapper
+modrinth.com##div.text-base.btn-wrapper > [href="/hosting"]
+
